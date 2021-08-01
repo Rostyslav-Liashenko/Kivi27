@@ -3,6 +3,10 @@
 - 🔭 I am now learning C# and everything related to it.
 - 📫 You can contact me via e-mail.
 
+## My project
+- <a href = "https://github.com/Kivi27/AllMyProjects">Snake</a>
+- <a href = "https://github.com/Kivi27/AllMyProjects">Special Excel script for customer </a>
+- <a https://github.com/Kivi27/AllMyProjects">Tic-tac-toe game for funny</a> 
 
 ## Contact Me
 <strong>Email  - kivi27072002@gmail.com</strong><br>
