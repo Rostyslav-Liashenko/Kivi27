@@ -14,6 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kivi27&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 ## Code wars
-<p><img align="center" width = "480" src="https://www.codewars.com/users/Kivi27/badges/large"></p>
+<p><img align="center" width = "320" src="https://www.codewars.com/users/Kivi27/badges/large"></p>
 
 
