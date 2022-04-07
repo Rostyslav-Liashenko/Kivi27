@@ -2,6 +2,7 @@
 
 - 🔭 I am now learning C# and everything related to it.
 - 📫 You can contact me via e-mail.
+- I am work in Company "GoKids"
 
 ## My project
 - <a href = "https://github.com/Kivi27/AllMyProjects">Snake</a>
