@@ -1,6 +1,6 @@
-## Now I'm studying to be a programmer at STFK NUHT
+## Now I'm work programmer
 
-- 🔭 I am now learning C# and everything related to it.
+- 🔭 I am now learning Java and Python and everything related to it.
 - 📫 You can contact me via e-mail.
 - I am work in Company "GoKids"
 
