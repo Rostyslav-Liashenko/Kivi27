@@ -1,6 +1,6 @@
 ## My profile
 
-- I am currently studying and working at Gokids(Game Developer)!
+- I am currently studying and working at Gokids! (Game Developer)
 - I am now learning Java and everything related to it.
 - You can contact me via e-mail.
 - I am work in Company "GoKids"
