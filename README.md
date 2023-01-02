@@ -1,7 +1,7 @@
 ## My profile
 
-- I am currently studying and working at Gokids! (Game Developer)
-- I am now learning Java and everything related to it.
+- I am currently studying
+- I am now JavaScript and everything related to it.
 - You can contact me via e-mail.
 
 ## My pet project
